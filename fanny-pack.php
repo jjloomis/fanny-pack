@@ -3,7 +3,7 @@
 Plugin Name: Fanny Pack
 Plugin URI:  https://github.com/jjloomis/fanny-pack
 Description: Run Jetpack in Development Mode. No WordPress.com account required.
-Version:     0.0
+Version:     1.0.0
 Author:      JJ Loomis
 Author URI:  https://github.com/jjloomis
 License:     GPL2
